@@ -32,7 +32,7 @@ https://github.com/CharlesMaziarski/Beers.git
 
 - Affiche la liste des bières.
 
-<img src="liste_beers.png" alt="liste bières" size="50%">  
+<img src="liste_beers.png" WIDTH=194 HEIGHT=90 alt="liste bières>  
 
 ### Ecran du détail de la bière
 
