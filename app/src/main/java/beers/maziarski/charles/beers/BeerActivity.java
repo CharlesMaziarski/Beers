@@ -45,4 +45,3 @@ public class BeerActivity extends Activity {
 
         }
     }
-    private void
