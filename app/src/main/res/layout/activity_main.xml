@@ -4,6 +4,11 @@
     android:layout_height="match_parent" >
 
     <!-- A RecyclerView with some commonly used attributes -->
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/my_recycler_view"
@@ -12,3 +17,4 @@
         android:scrollbars="vertical" />
 
 </RelativeLayout>
+

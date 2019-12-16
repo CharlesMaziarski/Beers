@@ -41,5 +41,8 @@ public class BeerActivity extends Activity {
         description.setText("Description : " + Description);
         ImageView image_url = findViewById(R.id.Image_urlbeer);
         Glide.with(this).asBitmap().load(Image_url).into(image_url);
+
+
+        }
     }
-}
+    private void
