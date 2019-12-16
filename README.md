@@ -23,6 +23,8 @@ https://github.com/CharlesMaziarski/Beers.git
 - Ecrans : 2 activités
 - Affichage d'une liste dans un RecyclerView
 - Affichage du détail d'un item de la liste
+- Mise en place des Fragments Home et Beer
+- Barre de recherche
 
 ## Fonctionnalités: 
 
